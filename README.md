@@ -27,11 +27,11 @@ https://rutube.ru/video/9c53227a4f075e79d635f806066a5d33/
 - Разместить приложение в Google Play Market, AppStore
 
 Скриншоты:
-![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/1024x500.png)
-![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/1.JPG)
-![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/2.JPG)
-![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/3.JPG)
-![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/4.JPG)
+![1](https://github.com/2023samir/mobile-application-LexStatus/blob/main/README/1024x500.png)
+![1](https://github.com/2023samir/mobile-application-LexStatus/blob/main/README/1.JPG)
+![1](https://github.com/2023samir/mobile-application-LexStatus/blob/main/README/2.JPG)
+![1](https://github.com/2023samir/mobile-application-LexStatus/blob/main/README/3.JPG)
+![1](https://github.com/2023samir/mobile-application-LexStatus/blob/main/README/4.JPG)
 
 
 Просмотреть приложение в Google Play:  
